@@ -1,12 +1,15 @@
 {
-  "name": "jqUtils",
-  "main": "jqUtils.js",
-  "version": "0.0.0",
+  "name": "jq-utils",
+  "main": "jq-utils.js",
+  "version": "0.0.1",
   "homepage": "https://github.com/jeanpaul1304/jqUtils",
   "authors": [
     "Jean Paul Diaz <jeanpaul1304@gmail.com>"
   ],
-  "description": "Utilidades front",
+  "description": "Front utils",
+  "keywords": [
+    "jqutils"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
